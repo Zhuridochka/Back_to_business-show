@@ -4,8 +4,7 @@ A visually polished, single-page landing built from a Figma design, with smooth 
 
 🔗 **Demo:** https://zhuridochka.github.io/Back_to_business-show/home.html
 
-## Scroll preview 
-(./Preview/scroll-demo.gif)
+## Scroll preview (./Preview/HomePage-GoogleChrome2024-12-2915-27-03-ezgif.com-optimize.gif)
 
 ## Pages
 - `index.html` — entry page
